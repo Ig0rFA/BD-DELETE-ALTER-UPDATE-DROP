@@ -2,7 +2,7 @@
 
 Após a criação de uma nova base, execute os códigos abaixo:
 
-/Altere o nome do Pateta para Goofy;/ 
+/*Altere o nome do Pateta para Goofy;*/ 
 
 update animais set nome = 'Goofy' where ID_cadastro = 15;
 
