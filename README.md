@@ -4,11 +4,11 @@ Atividades solicitadas em BD
 
 /*Altere o nome do Pateta para Goofy;*/ 
 
-update animais set nome = 'Goofy' where ID_cadastro = 15;
+//update animais set nome = 'Goofy' where ID_cadastro = 15;
 
 /Altere o peso do Garfield para 10 quilogramas;/
 
-update animais set peso = 10.0 where ID_cadastro = 04;
+```update animais set peso = 10.0 where ID_cadastro = 04;```
 
 /Altere a cor de todos os gatos para laranja;/
 
