@@ -55,10 +55,7 @@ delete from animais;
 delete from especies;
 
 ## Resultado:
-
-Print 1:
 ![exer1](https://github.com/Ig0rFA/BD-DELETE-ALTER-UPDATE-DROP/blob/main/Print1.png)
-Print 2:
 ![exer2](https://github.com/Ig0rFA/BD-DELETE-ALTER-UPDATE-DROP/blob/main/Print2.png)
 
 
