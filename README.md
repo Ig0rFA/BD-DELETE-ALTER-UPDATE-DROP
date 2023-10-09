@@ -1,4 +1,6 @@
 # BD-DELETE-ALTER-UPDATE-DROP
+## Descrição
+Atividades solicitadas em BD
 
 Após a criação de uma nova base, execute os códigos abaixo:
 
