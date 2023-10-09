@@ -38,8 +38,6 @@ Atividades solicitadas em BD
 
 ```alter table animais modify nome varchar(80);```
 
-/Remova todos os gatos e cachorros./
-
 /Remova o campo data de nascimento dos animais./
 
 ```alter table animais drop column Data_nascimento;```
