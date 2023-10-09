@@ -53,3 +53,7 @@ delete from animais;
 /Remova a tabela especies./
 
 delete from especies;
+
+https://github.com/Ig0rFA/BD-DELETE-ALTER-UPDATE-DROP/blob/main/Print1.png
+
+https://github.com/Ig0rFA/BD-DELETE-ALTER-UPDATE-DROP/blob/main/Print2.png
